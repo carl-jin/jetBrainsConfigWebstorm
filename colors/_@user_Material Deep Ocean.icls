@@ -4,7 +4,7 @@
     <property name="created">2022-02-25T18:50:54</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-25T20:00:15</property>
+    <property name="modified">2022-02-25T20:13:25</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -105,7 +105,7 @@
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
     <option name="LOOKUP_COLOR" value="181a1f" />
-    <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
+    <option name="METHOD_SEPARATORS_COLOR" value="1e2134" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="84ffff" />
     <option name="MT_FILESTATUS_ADDED" value="c3e88d" />
@@ -171,7 +171,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="3b3f51" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="717cb4" />
   </colors>

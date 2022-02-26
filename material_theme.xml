@@ -1,8 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-51e88210:17f334b6a5a:-8000" />
     <option name="version" value="6.13.0" />
+    <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>

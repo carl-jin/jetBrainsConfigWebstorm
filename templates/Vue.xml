@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="setup" value="&lt;script lang=&quot;ts&quot; setup&gt;&#10;$END$&#10;&lt;/script&gt;" description="vue script setup" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -2,17 +2,17 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="JSON" value="true" />
+        <entry key="CSS" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="JSON" value="false" />
         <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="Markdown" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
+        <entry key="LESS" value="false" />
+        <entry key="Markdown" value="false" />
+        <entry key="SASS" value="false" />
+        <entry key="SCSS" value="false" />
         <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
         <entry key="yaml" value="true" />
       </map>
     </option>
@@ -23,12 +23,11 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.tagged" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
